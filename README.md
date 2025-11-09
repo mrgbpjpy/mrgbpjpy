@@ -91,9 +91,9 @@ Graduate-level project applying SDLC, systems engineering, and process improveme
 
 ## 💬 Connect With Me
 🌐 **Portfolio:** [erick-esquilin-portfolio.vercel.app](https://erick-esquilin-portfolio.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/erick-esquilin](https://linkedin.com/in/erick-esquilin)  
+💼 **LinkedIn:** [linkedin.com/in/erick-esquilin](https://www.linkedin.com/in/erick-esquilin-911b08184/) 
 🐙 **GitHub:** [github.com/mrgbpjpy](https://github.com/mrgbpjpy)  
-📧 **Email:** erick.esquilin@outlook.com  
+📧 **Email:** mrgbpjpy@gmail.com  
 
 ---
 
