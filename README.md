@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Erick Esquilin  
 
-🎓 **M.S. in Computer Science – Colorado Technical University (Graduating 2025)**  
+🎓 **M.S. in Computer Science – Colorado Technical University (Graduated November 2025)**  
 🧠 **Principal-Level Software & Cloud Engineer | Azure | DevOps | Power Platform | Automation**  
 📍 Based in Florida | Open to Remote Roles  
 
