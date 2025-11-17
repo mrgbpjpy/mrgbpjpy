@@ -78,8 +78,7 @@ Graduate-level project applying SDLC, systems engineering, and process improveme
 - Security+ CE  
 - Microsoft Certified: Azure Developer Associate  
 - Microsoft Certified: Power Platform App Maker (PL-100)  
-- Nintex Certified Practitioner (RPA)  
-- Google IT Automation with Python  
+- Nintex Certified Practitioner (RPA)   
 - Front-End Development Libraries (freeCodeCamp)
 
 ---
