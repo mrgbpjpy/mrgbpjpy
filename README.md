@@ -74,6 +74,7 @@ Graduate-level project applying SDLC, systems engineering, and process improveme
 ## 🧠 Education & Certifications
 🎓 **M.S. in Computer Science**, Colorado Technical University (2025)  
 🎓 **B.S. in Information Technology**, Colorado Technical University (2023) 
+
 🏅 **Certifications:**  
 - Security+ CE  
 - Microsoft Certified: Azure Developer Associate  
