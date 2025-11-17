@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-I’m a results-driven software engineer with 8+ years of experience delivering **cloud-based, full-stack, and automation solutions** across Azure, .NET, and Power Platform ecosystems.  
+I’m a results-driven software engineer with 9+ years of experience delivering **cloud-based, full-stack, and automation solutions** across Azure, .NET, and Power Platform ecosystems.  
 I specialize in building secure, scalable infrastructure and intelligent business applications that bridge modern cloud technologies with enterprise productivity.
 
 I’m passionate about:
